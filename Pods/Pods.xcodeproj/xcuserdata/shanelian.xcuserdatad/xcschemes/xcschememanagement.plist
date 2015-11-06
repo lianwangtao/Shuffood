@@ -4,7 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods.xcscheme</key>
+		<key>Pods-Shuffood.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftyJSON.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -12,7 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1469924FC52F60B0068FA24EEFCB3EFC</key>
+		<key>7E8E62A1BD2DD9CF223F57C0F0C23FED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9EF801FF1251BB30B3F00262FC00F727</key>
 		<dict>
 			<key>primary</key>
 			<true/>

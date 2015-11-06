@@ -1,0 +1,6 @@
+framework module Pods_Shuffood {
+  umbrella header "Pods-Shuffood-umbrella.h"
+
+  export *
+  module * { export * }
+}
